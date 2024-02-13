@@ -14,6 +14,11 @@ so that I can get started with the things.
 
 I'm going to start by watching the video [2019 LLVM Developers’ Meeting “Introduction to LLVM”](https://www.youtube.com/watch?v=J5xExRGaIIY).
 
-I'll update about it tomorrow, see you.
+I'll update about it tomorrow, see you. I completed the section till "targets and codegen" in the above video.
+* BasicBlocks
+* Phi -> no idea what this is yet.
+* LLVM IR is always in SSA form (each variable is only assigned once and used below it)
+
+I'm not sure when would be the best time to watch the remaining of the video though.
 
 See you tomorrow, bye bye.
